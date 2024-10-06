@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+我是j20241221
+  我是小白
+  又菜又爱玩
 <!--
 **j20241221/j20241221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
